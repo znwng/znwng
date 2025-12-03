@@ -50,7 +50,7 @@ Computer Science Engineering student currently pursuing B.E. in CSE.
 - Anti-proxy attendance system to make some enemies.
 - Bootloader for a cubesat.
 
-### Not Currently Working On
+### !Currently Working On
 
 - A CLI todo app designed for tasks forgotten in `// TODO` comments
 - A notes app (no repo available).

@@ -20,7 +20,7 @@ Computer Science Engineering student currently pursuing B.E. in CSE.
 ### Languages
 
 ![C](https://img.shields.io/badge/Kinda_good-C-blue?logo=c)
-![C++](https://img.shields.io/badge/Does_DSA_in-C++-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/Does_LeetCode_in-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Forced_to_learn-Python-yellow?logo=python)
 ![Go](https://img.shields.io/badge/Learned_cuz_why_not-Go-cyan?logo=go)
 ![Bash](https://img.shields.io/badge/Added_for_fun-Bash-green?logo=gnu-bash)

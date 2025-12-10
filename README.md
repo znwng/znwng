@@ -27,11 +27,11 @@ Computer Science Engineering student currently pursuing B.E. in CSE.
 
 ### Tools
 
-![Linux](https://img.shields.io/badge/Resides_in-Linux-black?logo=linux)
-![Git](https://img.shields.io/badge/Version_controlled_by-Git-orange?logo=git)
-![Neovim](https://img.shields.io/badge/I_use-Neovim-green?logo=neovim)
-![Tmux](https://img.shields.io/badge/Multi_tasking_with-tmux-green?logo=tmux)
-![Docker](https://img.shields.io/badge/Still_new_to-Docker-blue?logo=docker)
+![Linux](https://img.shields.io/badge/OS-Linux-black?logo=linux)
+![Git](https://img.shields.io/badge/VCS-Git-orange?logo=git)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-green?logo=neovim)
+![Tmux](https://img.shields.io/badge/...-tmux-green?logo=tmux)
+![Docker](https://img.shields.io/badge/...-Docker-blue?logo=docker)
 
 ---
 

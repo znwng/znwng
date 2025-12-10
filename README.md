@@ -35,7 +35,7 @@ Computer Science Engineering student currently pursuing B.E. in CSE.
 
 ---
 
-### My Consistency (yes, I commit sometimes)
+### My Consistency
 
 <br>
 

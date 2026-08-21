@@ -5,8 +5,6 @@ Computer Science Engineering student currently pursuing B.E. in CSE.
 - CSE sophomore
 - One Piece glazer
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=znwng&theme=github-dark&hide_title=true)
-
 ### Socials
 
 - LinkedIn: https://linkedin.com/in/kalyanrmanne

@@ -2,7 +2,7 @@
 
 Computer Science Engineering student currently pursuing B.E. in CSE.
 
-- CSE sophomore
+- CSE student
 - One Piece glazer
 
 ### Socials

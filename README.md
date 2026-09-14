@@ -1,7 +1,5 @@
 # "Push & Pray"
 
-Computer Science Engineering student currently pursuing B.E. in CSE.
-
 - CSE student
 - One Piece glazer
 
